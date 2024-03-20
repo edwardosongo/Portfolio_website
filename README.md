@@ -38,7 +38,7 @@
     </section>
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a passionate web developer with a love for creating beautiful and functional websites.</p>
+        <p>My name is Edward. I am a passionate web developer with a love for creating beautiful and functional websites.</p>
     </section>
     <section id="projects">
         <h2>Projects</h2>
